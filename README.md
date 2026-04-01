@@ -96,7 +96,6 @@ I build **scalable backend services**, **full-stack apps**, and **ML pipelines**
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omkaravasare&style=flat-square&color=58a6ff&label=Profile+Views)
 
 *"First, solve the problem. Then, write the code."*
 
