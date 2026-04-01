@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Omkar%20Avasare&fontSize=42&fontColor=c9d1d9&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### `< Full Stack Dev · ML Engineer · Cloud Builder />`
+### `< Full Stack Dev · Cloud Builder />`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=B.Tech+IT+%40+AISSMS+IOIT+%7C+Cybersecurity+Honors;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Building+things+that+scale+%E2%9C%A6)](https://git.io/typing-svg)
 
