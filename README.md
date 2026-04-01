@@ -22,7 +22,7 @@
 ## ◈ About Me
 
 ```yaml
-role     : Full Stack Developer & ML Engineer
+Roles     : Full Stack Developer & DevOps learner
 studying : B.Tech IT (Honors: Cybersecurity) @ AISSMS IOIT, Pune — CGPA 7.8
 focus    : Clean Architecture · CI/CD · Data-Driven Systems
 ```
